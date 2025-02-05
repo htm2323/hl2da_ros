@@ -705,9 +705,10 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
-      PrivateNetworkClientServer: True
       GazeInput: True
+      PrivateNetworkClientServer: True
       SpatialPerception: True
+      InternetClient: True
       WebCam: True
       Microphone: True
   metroTargetDeviceFamilies: {}
